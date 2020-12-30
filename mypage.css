@@ -1,0 +1,17 @@
+body{
+  margin: 0 auto;
+  padding: 150px;
+  width: 25%;
+  background: #fbfbfa;
+}
+h1{
+  color: #545454;
+  font-size: 20px;
+}
+a{
+  color: #545454;
+  display: block;
+}
+a:hover{
+  text-decoration: none;
+}
